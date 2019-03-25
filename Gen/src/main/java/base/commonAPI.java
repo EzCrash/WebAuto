@@ -16,7 +16,7 @@ public class commonAPI {
 
     @BeforeMethod
     public void setUp() {
-        System.setProperty("webdriver.chrome.driver", "C:\\Users\\georemo\\Desktop\\Auto\\MavProject\\Gen\\driver\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "../Gen/driver/chromedriverLinux");
         driver = new ChromeDriver();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         driver.manage().window().maximize();

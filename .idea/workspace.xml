@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc2c92e1-ee5b-4420-88cd-128f9d7369ea" name="Default Changelist" comment="" />
+    <list default="true" id="fc2c92e1-ee5b-4420-88cd-128f9d7369ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DHgate/src/main/java/datasource/DataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DHgate/src/main/java/pages/SearchBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DHgate/src/main/java/pages/Title.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DHgate/src/test/java/TestSearchBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DHgate/src/test/java/TestTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DHgate/src/test/resources/TestRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gen/driver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gen/driver/chromedriverLinux" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gen/driver/geckodriverLinux" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebScrapper/src/main/java/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebScrapper/src/test/java/TestLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DHgate/src/main/Chrome/java/VerifyInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DHgate/src/main/Chrome/java/VerifyTitle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DHgate/target/classes/VerifyInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/DHgate/target/classes/VerifyInput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gen/src/main/java/base/commonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Gen/src/main/java/base/commonAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gen/target/classes/base/commonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Gen/target/classes/base/commonAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gen/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Gen/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MavProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MavProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebScrapper/src/main/java/LoginTest.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Gen/target/" />
@@ -21,24 +45,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/Gen/src/main/java/base/commonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="27" selection-start-line="11" selection-start-column="4" selection-end-line="34" selection-end-column="27" />
+            <state relative-caret-position="172">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gen/src/main/java/base/commonAPI.java">
+        <entry file="file://$PROJECT_DIR$/DHgate/src/main/java/datasource/DataBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
-              <folding>
-                <element signature="method#typeOnCSS#0;class#commonAPI#0" />
-                <element signature="method#typeOnWebElement#0;class#commonAPI#0" />
-                <element signature="method#typeOnElement#0;class#commonAPI#0" />
-              </folding>
+            <state relative-caret-position="30">
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -46,53 +65,71 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DHgate/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="16" column="22" selection-start-line="13" selection-start-column="4" selection-end-line="24" selection-end-column="19" />
+            <state relative-caret-position="315">
+              <caret line="21" column="16" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="23" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebScrapper/pom.xml">
+        <entry file="file://$PROJECT_DIR$/DHgate/src/main/java/pages/SearchBar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+            <state relative-caret-position="75">
+              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DHgate/src/main/java/pages/Title.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DHgate/src/test/java/TestSearchBar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DHgate/src/test/java/TestTitle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebScrapper/src/main/java/Login.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/WebScrapper/src/main/java/LoginTest.java">
+        <entry file="file://$PROJECT_DIR$/DHgate/src/test/resources/TestRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            <state relative-caret-position="150">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DHgate/src/main/Chrome/java/VerifyInput.java">
+        <entry file="file://$PROJECT_DIR$/WebScrapper/src/test/java/TestLogin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DHgate/src/main/Chrome/java/VerifyTitle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="38" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gen/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="9" selection-start-line="13" selection-start-column="3" selection-end-line="32" selection-end-column="19" />
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -102,9 +139,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -114,13 +155,23 @@
         <option value="$PROJECT_DIR$/DHgate/pom.xml" />
         <option value="$PROJECT_DIR$/DHgate/src/main/java/VerifyTitle.java" />
         <option value="$PROJECT_DIR$/DHgate/src/main/Firefox/java/Title.java" />
-        <option value="$PROJECT_DIR$/Gen/src/main/java/base/commonAPI.java" />
         <option value="$PROJECT_DIR$/DHgate/src/main/Chrome/java/VerifyInput.java" />
         <option value="$PROJECT_DIR$/Facebook/pom.xml" />
         <option value="$PROJECT_DIR$/Facebook/src/main/java/FacebookLogin.java" />
         <option value="$PROJECT_DIR$/WebScrapper/pom.xml" />
         <option value="$PROJECT_DIR$/WebScrapper/src/main/java/TestLogin.java" />
         <option value="$PROJECT_DIR$/WebScrapper/src/main/java/LoginTest.java" />
+        <option value="$PROJECT_DIR$/DHgate/src/main/Chrome/resources/TestRunner.fxml" />
+        <option value="$PROJECT_DIR$/DHgate/src/main/java/VerifyInput.java" />
+        <option value="$PROJECT_DIR$/DHgate/src/main/java/datasource/DataBase.java" />
+        <option value="$PROJECT_DIR$/Gen/src/main/java/base/commonAPI.java" />
+        <option value="$PROJECT_DIR$/DHgate/src/main/java/pages/SearchBar.java" />
+        <option value="$PROJECT_DIR$/DHgate/src/main/java/pages/Title.java" />
+        <option value="$PROJECT_DIR$/DHgate/src/test/java/TestSearchBar.java" />
+        <option value="$PROJECT_DIR$/DHgate/src/test/java/TestTitle.java" />
+        <option value="$PROJECT_DIR$/WebScrapper/src/main/java/Login.java" />
+        <option value="$PROJECT_DIR$/WebScrapper/src/test/java/TestLogin.java" />
+        <option value="$PROJECT_DIR$/DHgate/src/test/resources/TestRunner.xml" />
       </list>
     </option>
   </component>
@@ -156,16 +207,18 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="281" />
-    <option name="y" value="13" />
-    <option name="width" value="1008" />
-    <option name="height" value="649" />
+    <option name="x" value="16" />
+    <option name="y" value="60" />
+    <option name="width" value="1221" />
+    <option name="height" value="621" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -198,7 +251,7 @@
               <item name="DHgate" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="Chrome" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MavProject" type="b2602c69:ProjectViewProjectNode" />
@@ -206,7 +259,31 @@
               <item name="DHgate" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="Chrome" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="datasource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavProject" type="462c0819:PsiDirectoryNode" />
+              <item name="DHgate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavProject" type="462c0819:PsiDirectoryNode" />
+              <item name="DHgate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavProject" type="462c0819:PsiDirectoryNode" />
+              <item name="DHgate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -215,6 +292,7 @@
               <item name="DHgate" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MavProject" type="b2602c69:ProjectViewProjectNode" />
@@ -230,36 +308,6 @@
             <path>
               <item name="MavProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="MavProject" type="462c0819:PsiDirectoryNode" />
-              <item name="Gen" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MavProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MavProject" type="462c0819:PsiDirectoryNode" />
-              <item name="Gen" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MavProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MavProject" type="462c0819:PsiDirectoryNode" />
-              <item name="Gen" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MavProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MavProject" type="462c0819:PsiDirectoryNode" />
-              <item name="Gen" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MavProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MavProject" type="462c0819:PsiDirectoryNode" />
               <item name="WebScrapper" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -282,16 +330,23 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavProject" type="462c0819:PsiDirectoryNode" />
+              <item name="WebScrapper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552525768984" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553489051720" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -299,9 +354,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\georemo\Desktop\Auto\MavProject\DHgate\src\main" />
       <recent name="C:\Users\georemo\Desktop\Auto\MavProject\DHgate\src\main\Chrome" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Gen/driver" />
       <recent name="C:\Users\georemo\Desktop\Auto\MavProject\Gen\driver" />
     </key>
   </component>
@@ -317,57 +374,70 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.LoginTest.LoginPageTest">
-    <configuration name="FacebookLogin.facebookLogIn" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Facebook" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FacebookLogin" />
-      <option name="METHOD_NAME" value="facebookLogIn" />
-      <option name="TEST_OBJECT" value="METHOD" />
+  <component name="RunManager" selected="TestNG.TestSearchBar">
+    <configuration name="C:/Users/georemo/Desktop/Auto/MavProject/DHgate/src/test/resources/TestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DHgate" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/DHgate/src/test/resources/TestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="WebScrapper" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LoginTest" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoginTest.LoginPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="WebScrapper" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LoginTest" />
-      <option name="METHOD_NAME" value="LoginPageTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoginTest.facebookLogIn" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="WebScrapper" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LoginTest" />
-      <option name="METHOD_NAME" value="facebookLogIn" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VerifyInput" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSearchBar" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="DHgate" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="VerifyInput" />
+      <option name="MAIN_CLASS_NAME" value="TestSearchBar" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifyInput.HoverOverMenu" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DHgate" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="pages.VerifyInput" />
+      <option name="METHOD_NAME" value="HoverOverMenu" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifyInput.HoverOverMenu" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DHgate" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="pages.VerifyInput" />
+      <option name="METHOD_NAME" value="HoverOverMenu" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifyInput.NewsLetter" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DHgate" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="pages.VerifyInput" />
+      <option name="METHOD_NAME" value="NewsLetter" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifyTitle.VerifyTitle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DHgate" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="pages.VerifyTitle" />
+      <option name="METHOD_NAME" value="VerifyTitle" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -376,11 +446,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.LoginTest.LoginPageTest" />
-        <item itemvalue="TestNG.LoginTest" />
-        <item itemvalue="TestNG.LoginTest.facebookLogIn" />
-        <item itemvalue="TestNG.FacebookLogin.facebookLogIn" />
-        <item itemvalue="TestNG.VerifyInput" />
+        <item itemvalue="TestNG.TestSearchBar" />
+        <item itemvalue="TestNG.C:/Users/georemo/Desktop/Auto/MavProject/DHgate/src/test/resources/TestRunner.xml" />
+        <item itemvalue="TestNG.VerifyInput.HoverOverMenu" />
+        <item itemvalue="TestNG.VerifyInput.NewsLetter" />
+        <item itemvalue="TestNG.VerifyTitle.VerifyTitle" />
       </list>
     </recent_temporary>
   </component>
@@ -398,42 +468,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LoginTest_facebookLogIn - 2019.03.13 at 20h 50m 29s.xml">
-      <configuration name="LoginTest.facebookLogIn" configurationId="TestNG" />
+    <history-entry file="VerifyInput_NewsLetter - 2019.03.19 at 03h 17m 47s.xml">
+      <configuration name="VerifyInput.NewsLetter" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest_LoginPageTest - 2019.03.13 at 20h 52m 19s.xml">
-      <configuration name="LoginTest.LoginPageTest" configurationId="TestNG" />
+    <history-entry file="VerifyInput_NewsLetter - 2019.03.19 at 03h 18m 18s.xml">
+      <configuration name="VerifyInput.NewsLetter" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest_LoginPageTest - 2019.03.13 at 20h 53m 02s.xml">
-      <configuration name="LoginTest.LoginPageTest" configurationId="TestNG" />
+    <history-entry file="VerifyInput_NewsLetter - 2019.03.19 at 03h 19m 26s.xml">
+      <configuration name="VerifyInput.NewsLetter" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest_LoginPageTest - 2019.03.13 at 20h 57m 14s.xml">
-      <configuration name="LoginTest.LoginPageTest" configurationId="TestNG" />
+    <history-entry file="VerifyInput_HoverOverMenu - 2019.03.19 at 03h 35m 49s.xml">
+      <configuration name="VerifyInput.HoverOverMenu" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest_LoginPageTest - 2019.03.13 at 20h 58m 18s.xml">
-      <configuration name="LoginTest.LoginPageTest" configurationId="TestNG" />
+    <history-entry file="VerifyInput_HoverOverMenu - 2019.03.19 at 03h 36m 40s.xml">
+      <configuration name="VerifyInput.HoverOverMenu" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest - 2019.03.13 at 20h 59m 04s.xml">
-      <configuration name="LoginTest" configurationId="TestNG" />
+    <history-entry file="VerifyInput_HoverOverMenu - 2019.03.19 at 03h 41m 26s.xml">
+      <configuration name="VerifyInput.HoverOverMenu" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest_LoginPageTest - 2019.03.13 at 21h 00m 28s.xml">
-      <configuration name="LoginTest.LoginPageTest" configurationId="TestNG" />
+    <history-entry file="VerifyInput_HoverOverMenu - 2019.03.19 at 03h 44m 20s.xml">
+      <configuration name="VerifyInput.HoverOverMenu" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest - 2019.03.13 at 21h 02m 21s.xml">
-      <configuration name="LoginTest" configurationId="TestNG" />
+    <history-entry file="TestSearchBar - 2019.03.24 at 16h 43m 43s.xml">
+      <configuration name="TestSearchBar" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest_LoginPageTest - 2019.03.13 at 21h 05m 37s.xml">
-      <configuration name="LoginTest.LoginPageTest" configurationId="TestNG" />
+    <history-entry file="C__Users_georemo_Desktop_Auto_MavProject_DHgate_src_test_resources_TestRunner_xml - 2019.03.24 at 16h 45m 28s.xml">
+      <configuration name="C:/Users/georemo/Desktop/Auto/MavProject/DHgate/src/test/resources/TestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest_LoginPageTest - 2019.03.13 at 21h 08m 00s.xml">
-      <configuration name="LoginTest.LoginPageTest" configurationId="TestNG" />
+    <history-entry file="C__Users_georemo_Desktop_Auto_MavProject_DHgate_src_test_resources_TestRunner_xml - 2019.03.24 at 16h 54m 13s.xml">
+      <configuration name="C:/Users/georemo/Desktop/Auto/MavProject/DHgate/src/test/resources/TestRunner.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="281" y="13" width="1008" height="649" extended-state="0" />
-    <editor active="true" />
+    <frame x="22" y="49" width="1221" height="621" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23839663" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2855925" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -441,15 +510,15 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23449612" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32924336" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23108384" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3986711" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.3275194" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3783231" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3875969" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -496,6 +565,10 @@
     <entry file="file://$PROJECT_DIR$/DHgate/src/main/Firefox/java/Title.java" />
     <entry file="file://$PROJECT_DIR$/Facebook/pom.xml" />
     <entry file="file://$PROJECT_DIR$/Facebook/src/main/java/FacebookLogin.java" />
+    <entry file="file://$PROJECT_DIR$/WebScraper/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/WebScrapper/src/main/java/TestLogin.java" />
+    <entry file="file://$PROJECT_DIR$/DHgate/src/main/Chrome/resources/testRunner" />
+    <entry file="file://$PROJECT_DIR$/DHgate/src/main/Chrome/resources/TestRunner.fxml" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
@@ -503,15 +576,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gen/src/main/java/base/commonAPI.java">
+    <entry file="file://$PROJECT_DIR$/WebScrapper/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
-          <folding>
-            <element signature="method#typeOnCSS#0;class#commonAPI#0" />
-            <element signature="method#typeOnWebElement#0;class#commonAPI#0" />
-            <element signature="method#typeOnElement#0;class#commonAPI#0" />
-          </folding>
+        <state relative-caret-position="408">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebScrapper/src/main/java/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -522,48 +597,108 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebScraper/pom.xml">
+    <entry file="file://$PROJECT_DIR$/DHgate/src/main/datasource/DataBase.java" />
+    <entry file="file://$PROJECT_DIR$/DHgate/src/main/java/pages/VerifyInput.java">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DHgate/src/main/java/pages/VerifyTitle.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DHgate/src/test/java/testVerifyInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gen/src/main/java/base/commonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DHgate/src/main/java/pages/searchBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DHgate/src/test/java/testsearchBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DHgate/src/main/java/pages/title.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DHgate/src/main/java/datasource/DataBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DHgate/src/main/java/pages/Title.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DHgate/src/test/java/TestTitle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebScrapper/src/main/java/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebScrapper/src/test/java/TestLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DHgate/src/main/java/pages/SearchBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DHgate/src/test/java/TestSearchBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DHgate/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="16" column="22" selection-start-line="13" selection-start-column="4" selection-end-line="24" selection-end-column="19" />
+        <state relative-caret-position="315">
+          <caret line="21" column="16" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="23" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebScrapper/src/main/java/TestLogin.java">
+    <entry file="file://$PROJECT_DIR$/DHgate/src/test/resources/TestRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebScrapper/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DHgate/src/main/Chrome/java/VerifyTitle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DHgate/src/main/Chrome/java/VerifyInput.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebScrapper/src/main/java/LoginTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        <state relative-caret-position="150">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
         </state>
       </provider>
     </entry>
